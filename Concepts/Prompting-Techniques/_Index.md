@@ -78,6 +78,26 @@ SORT file.name ASC
 | Quality improvement | [[Iterative-Refinement-Loop]] |
 | Optimal prompts | [[Meta-Prompting]] |
 
+## Claude Code Best Practices
+
+A comprehensive guide series for working effectively with Claude Code, covering everything from fundamentals to advanced techniques.
+
+### Start Here
+- [[Claude-Code-Best-Practices]] — Hub document with overview and navigation
+
+### Essential Skills (All Users)
+- [[Prompt-Engineering-for-Claude-Code]] — Write clear, effective requests
+- [[Context-Management-Strategies]] — Provide the right information at the right time
+- [[Safety-Practices-for-AI-Coding]] — Prevent destructive operations and establish safe workflows
+
+### Problem Solving
+- [[Debugging-Claude-Code-Outputs]] — Handle mistakes and course-correct effectively
+
+### Power User Techniques
+- [[Advanced-Claude-Code-Techniques]] — Parallel execution, agents, optimization, and expert workflows
+
+**Recommended Path:** Start with the hub document, then read Essential Skills in order. Reference Debugging as needed. Explore Advanced Techniques once you're comfortable with the basics.
+
 ## See Also
 
 - [[../Algorithms/_Index|Algorithms]] — Systematic problem-solving approaches
